@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="33" viewBox="0 0 116 33">
+  <g id="promo-tag" transform="translate(-561 -1371)">
+    <path id="Path_16" data-name="Path 16" d="M9,0h98a9,9,0,0,1,9,9V24a9,9,0,0,1-9,9H9a9,9,0,0,1-9-9V9A9,9,0,0,1,9,0Z" transform="translate(561 1371)" fill="#fc6f21"/>
+    <path id="Path_6" data-name="Path 6" d="M8.337,0l2.576,5.22,5.761.837L12.505,10.12l.984,5.737L8.337,13.149,3.184,15.858l.984-5.737L0,6.057,5.761,5.22Z" transform="matrix(0.966, -0.259, 0.259, 0.966, 569.132, 1381.392)" fill="none" stroke="#fcfcfc" stroke-miterlimit="10" stroke-width="2.25"/>
+    <text id="Promo" transform="translate(630 1394)" fill="#fff" font-size="17" font-family="Lato-Heavy, Lato" font-weight="800"><tspan x="-32.627" y="0">PROMO</tspan></text>
+  </g>
+</svg>
